@@ -2,7 +2,7 @@
 
 I'm Walt. I am a student at the Microsoft Software and Systems Academy and I enjoy working with C#, Blazor, and T-SQL.
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=waltbeaman&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=waltbeaman&langs_count=5&theme=tokyonight)]()
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=waltbeaman&count_private=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waltbeaman&layout=compact&theme=tokyonight)](https://github.com/waltbeaman/github-readme-stats)
 
 
