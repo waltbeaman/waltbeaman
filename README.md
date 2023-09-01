@@ -1,7 +1,3 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waltbeaman&rank_icon=github&show_icons=true&line_height=29&theme=tokyonight" />
-</a>
+# Hello, I'm Walt! 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltbeaman&layout=donut&theme=tokyonight" />
-</a>
+I'm a software engineer, fitness enthusiast, and lover of the great outdoors. Feel free to reach out if you'd like to collaborate.
