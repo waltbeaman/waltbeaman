@@ -1,3 +1,7 @@
-# Hello, I'm Walt! 👋
+# 🌵 Howdy, I'm Walt 🌵
 
-I'm a software engineer, fitness enthusiast, and lover of the great outdoors.
+☑️ Husband
+☑️ Father
+☑️ Developer
+☑️ Fitness enthusiast
+☑️ Lover of the great outdoors
