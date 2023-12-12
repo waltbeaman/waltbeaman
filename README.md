@@ -4,4 +4,4 @@
 ☑️ Father\
 ☑️ Developer\
 ☑️ Fitness enthusiast\
-☑️ Lover of the great outdoors\
+☑️ Lover of the great outdoors
