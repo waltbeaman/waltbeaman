@@ -2,6 +2,6 @@
 
 👩‍❤️‍👨 Husband\
 👨‍👧‍👧 Father\
-🖥️ Developer\
+💻 Developer\
 🏋️‍♂️ Fitness enthusiast\
 🧗‍♂️ Lover of the great outdoors
